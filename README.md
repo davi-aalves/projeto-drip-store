@@ -1,16 +1,49 @@
-<<<<<<< HEAD
-# projeto-drip-store
-=======
-# React + Vite
+# 🛍️ DRIP STORE — Projeto Front-end
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📄 Informações Básicas
 
-Currently, two official plugins are available:
+Este repositório reúne o projeto desenvolvido para aplicar, na prática, os conhecimentos adquiridos ao longo do curso Geração Tech 2.0, utilizando tecnologias modernas, boas práticas e fidelidade ao design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Interface inspirada no [Figma oficial da Digital College](https://www.figma.com/design/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE?node-id=22-30)
+- Estrutura de páginas: Home, Listagem de Produtos e Detalhes do Produto
+- Estilização responsiva e componentização reutilizável
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> a47b811 (Create project drip store)
+## 🚀 Instruções de Uso
+
+```bash
+# Clone este repositório
+git clone https://github.com/davi-aalves/projeto-drip-store.git
+
+# Acesse o diretório do projeto
+cd projeto-drip-store
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
+npm run dev
+```
+
+> Certifique-se de ter o Node.js e o npm instalados.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [JavaScript (ES6+)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Git](https://git-scm.com/) e [GitHub](https://github.com/)
+
+---
+
+## 👥 Equipe
+
+- [Samuel Teles](https://github.com/SamueltelF)
+- [Gabriel Chagas](https://github.com/gabriel-chagas-albuquerque)
+- [Davi Alves](https://github.com/davi-aalves)
+
+---
