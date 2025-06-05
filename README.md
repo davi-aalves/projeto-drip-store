@@ -47,3 +47,12 @@ npm run dev
 - [Davi Alves](https://github.com/davi-aalves)
 
 ---
+
+## 🌐 Deploys
+
+Link do deploy Vercel:  
+[https://projeto-drip-store-alpha.vercel.app/](https://projeto-drip-store-alpha.vercel.app/)
+
+## 📎 Observações
+
+- Projeto realizado para fins de estudo e não representa uma loja real.
